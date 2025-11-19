@@ -1,0 +1,501 @@
+id_venda,data_venda,cliente,produto,categoria,quantidade,preco_unitario,valor_total,estado,pagamento
+1,2025-03-02,Lucas Rocha,Notebook i5,Computadores,5,3849.0,19245.0,GO,Boleto
+2,2025-03-21,Lucas Rocha,Headset RGB,Periférico,1,199.5,199.5,MG,Débito
+3,2025-02-02,Patrícia Gomes,Headset RGB,Periférico,2,199.5,399.0,GO,Boleto
+4,2025-01-25,Fernanda Dias,Mouse Pad Grande,Acessórios,2,39.9,79.8,RJ,Boleto
+5,2025-03-21,Fernanda Dias,Roteador AC1200,Redes,4,159.9,639.6,PR,Débito
+6,2025-03-21,Patrícia Gomes,Mouse Gamer,Periférico,2,120.9,241.8,SP,Pix
+7,2025-02-24,Lucas Rocha,Notebook i5,Computadores,3,3849.0,11547.0,SP,Boleto
+8,2025-01-06,Marcos Paulo,Headset RGB,Periférico,4,199.5,798.0,RS,Pix
+9,2025-03-22,Carla Mendes,Webcam Full HD,Acessórios,2,299.0,598.0,RS,Pix
+10,2025-02-13,Patrícia Gomes,Mouse Gamer,Periférico,2,120.9,241.8,PR,Boleto
+11,2025-01-10,Patrícia Gomes,Mouse Gamer,Periférico,2,120.9,241.8,SP,Débito
+12,2025-03-04,Bruno Martins,Mouse Gamer,Periférico,5,120.9,604.5,RJ,Boleto
+13,2025-02-21,Lucas Rocha,Webcam Full HD,Acessórios,5,299.0,1495.0,SC,Crédito
+14,2025-01-22,Fernanda Dias,Teclado Mecânico,Periférico,2,349.0,698.0,GO,Boleto
+15,2025-02-21,Fernanda Dias,Roteador AC1200,Redes,3,159.9,479.7,PR,Débito
+16,2025-02-07,Lucas Rocha,Roteador AC1200,Redes,3,159.9,479.7,RS,Débito
+17,2025-03-06,Carlos Lima,Webcam Full HD,Acessórios,1,299.0,299.0,MG,Débito
+18,2025-03-13,Patrícia Gomes,Teclado Mecânico,Periférico,1,349.0,349.0,SP,Crédito
+19,2025-02-05,Paulo Henrique,Mouse Gamer,Periférico,5,120.9,604.5,SC,Pix
+20,2025-02-07,Patrícia Gomes,Monitor 27,Monitores,3,1299.0,3897.0,SC,Pix
+21,2025-01-06,Lucas Rocha,Headset RGB,Periférico,5,199.5,997.5,RJ,Débito
+22,2025-02-25,Bruno Martins,Mouse Gamer,Periférico,2,120.9,241.8,PR,Boleto
+23,2025-03-16,Juliana Costa,Notebook i5,Computadores,4,3849.0,15396.0,RS,Boleto
+24,2025-01-06,Juliana Costa,Cadeira Gamer,Móveis,1,889.9,889.9,PR,Boleto
+25,2025-01-21,Patrícia Gomes,Teclado Mecânico,Periférico,5,349.0,1745.0,RJ,Crédito
+26,2025-02-12,Bruno Martins,Mouse Pad Grande,Acessórios,1,39.9,39.9,GO,Pix
+27,2025-02-03,Lucas Rocha,Teclado Mecânico,Periférico,4,349.0,1396.0,MG,Boleto
+28,2025-01-14,Carlos Lima,Notebook i5,Computadores,3,3849.0,11547.0,RJ,Pix
+29,2025-01-13,Fernanda Dias,SSD 480GB,Armazenamento,4,259.99,1039.96,RJ,Crédito
+30,2025-01-19,Carla Mendes,Mouse Pad Grande,Acessórios,3,39.9,119.7,GO,Pix
+31,2025-03-01,Patrícia Gomes,Roteador AC1200,Redes,2,159.9,319.8,BA,Crédito
+32,2025-02-08,Paulo Henrique,Monitor 27,Monitores,2,1299.0,2598.0,PR,Crédito
+33,2025-03-20,Lucas Rocha,SSD 480GB,Armazenamento,3,259.99,779.97,SP,Crédito
+34,2025-01-23,Paulo Henrique,Monitor 27,Monitores,1,1299.0,1299.0,MG,Boleto
+35,2025-03-21,Bruno Martins,Cadeira Gamer,Móveis,2,889.9,1779.8,SP,Débito
+36,2025-03-07,Bruno Martins,Monitor 27,Monitores,2,1299.0,2598.0,PR,Boleto
+37,2025-03-20,Carlos Lima,Mouse Gamer,Periférico,1,120.9,120.9,BA,Crédito
+38,2025-02-17,Ana Silva,Teclado Mecânico,Periférico,2,349.0,698.0,PR,Crédito
+39,2025-01-14,Ana Silva,Monitor 27,Monitores,1,1299.0,1299.0,MG,Débito
+40,2025-01-10,Paulo Henrique,Cadeira Gamer,Móveis,5,889.9,4449.5,PR,Débito
+41,2025-01-02,Carlos Lima,SSD 480GB,Armazenamento,3,259.99,779.97,RS,Crédito
+42,2025-01-15,Marcos Paulo,Roteador AC1200,Redes,2,159.9,319.8,RS,Pix
+43,2025-01-03,Ana Silva,Webcam Full HD,Acessórios,1,299.0,299.0,SP,Crédito
+44,2025-03-03,Bruno Martins,Mouse Pad Grande,Acessórios,2,39.9,79.8,MG,Crédito
+45,2025-01-01,Rafael Souza,Headset RGB,Periférico,3,199.5,598.5,PR,Débito
+46,2025-03-18,Carlos Lima,Notebook i5,Computadores,3,3849.0,11547.0,SP,Pix
+47,2025-01-22,Juliana Costa,Webcam Full HD,Acessórios,4,299.0,1196.0,BA,Crédito
+48,2025-02-22,Fernanda Dias,Mouse Pad Grande,Acessórios,4,39.9,159.6,SC,Boleto
+49,2025-02-05,Lucas Rocha,Notebook i5,Computadores,4,3849.0,15396.0,RS,Boleto
+50,2025-02-16,Fernanda Dias,Headset RGB,Periférico,1,199.5,199.5,GO,Crédito
+51,2025-02-28,Lucas Rocha,Cadeira Gamer,Móveis,4,889.9,3559.6,SC,Crédito
+52,2025-02-19,Juliana Costa,Roteador AC1200,Redes,1,159.9,159.9,SP,Boleto
+53,2025-03-16,Marcos Paulo,Cadeira Gamer,Móveis,4,889.9,3559.6,GO,Pix
+54,2025-02-25,Fernanda Dias,Mouse Gamer,Periférico,3,120.9,362.7,RS,Débito
+55,2025-03-01,Bruno Martins,SSD 480GB,Armazenamento,1,259.99,259.99,SP,Crédito
+56,2025-02-14,Fernanda Dias,Notebook i5,Computadores,5,3849.0,19245.0,RS,Boleto
+57,2025-01-08,Carlos Lima,Monitor 27,Monitores,2,1299.0,2598.0,MG,Boleto
+58,2025-01-25,Rafael Souza,Mouse Pad Grande,Acessórios,3,39.9,119.7,BA,Débito
+59,2025-02-27,Ana Silva,Teclado Mecânico,Periférico,5,349.0,1745.0,RS,Pix
+60,2025-03-21,Carlos Lima,Roteador AC1200,Redes,1,159.9,159.9,GO,Crédito
+61,2025-01-17,Ana Silva,Mouse Pad Grande,Acessórios,4,39.9,159.6,SP,Pix
+62,2025-02-01,Juliana Costa,Webcam Full HD,Acessórios,2,299.0,598.0,RJ,Débito
+63,2025-02-14,Juliana Costa,Mouse Pad Grande,Acessórios,1,39.9,39.9,MG,Crédito
+64,2025-01-01,Fernanda Dias,Mouse Gamer,Periférico,3,120.9,362.7,BA,Pix
+65,2025-02-13,Ana Silva,Mouse Gamer,Periférico,2,120.9,241.8,SP,Pix
+66,2025-02-12,Carlos Lima,Mouse Pad Grande,Acessórios,4,39.9,159.6,PR,Débito
+67,2025-01-02,Rafael Souza,Teclado Mecânico,Periférico,3,349.0,1047.0,PR,Boleto
+68,2025-01-09,Lucas Rocha,Teclado Mecânico,Periférico,1,349.0,349.0,RJ,Pix
+69,2025-03-05,Fernanda Dias,Roteador AC1200,Redes,4,159.9,639.6,BA,Débito
+70,2025-03-20,Paulo Henrique,Mouse Gamer,Periférico,1,120.9,120.9,BA,Boleto
+71,2025-02-18,Juliana Costa,Teclado Mecânico,Periférico,1,349.0,349.0,RJ,Boleto
+72,2025-03-11,Lucas Rocha,Mouse Gamer,Periférico,1,120.9,120.9,MG,Crédito
+73,2025-01-09,Marcos Paulo,Cadeira Gamer,Móveis,4,889.9,3559.6,PR,Pix
+74,2025-01-03,Fernanda Dias,Webcam Full HD,Acessórios,1,299.0,299.0,PR,Débito
+75,2025-03-05,Carlos Lima,Mouse Gamer,Periférico,4,120.9,483.6,RJ,Pix
+76,2025-03-09,Carla Mendes,Webcam Full HD,Acessórios,1,299.0,299.0,BA,Boleto
+77,2025-01-08,Carlos Lima,Cadeira Gamer,Móveis,1,889.9,889.9,SP,Crédito
+78,2025-03-15,Patrícia Gomes,Cadeira Gamer,Móveis,4,889.9,3559.6,PR,Boleto
+79,2025-03-09,Fernanda Dias,Teclado Mecânico,Periférico,2,349.0,698.0,PR,Crédito
+80,2025-01-05,Carla Mendes,Headset RGB,Periférico,5,199.5,997.5,MG,Pix
+81,2025-01-09,Carla Mendes,Headset RGB,Periférico,4,199.5,798.0,GO,Boleto
+82,2025-01-13,Rafael Souza,Headset RGB,Periférico,1,199.5,199.5,SP,Crédito
+83,2025-01-19,Carlos Lima,Webcam Full HD,Acessórios,2,299.0,598.0,RJ,Crédito
+84,2025-02-20,Fernanda Dias,Mouse Pad Grande,Acessórios,1,39.9,39.9,SC,Boleto
+85,2025-03-07,Patrícia Gomes,SSD 480GB,Armazenamento,2,259.99,519.98,MG,Débito
+86,2025-03-21,Marcos Paulo,Teclado Mecânico,Periférico,3,349.0,1047.0,MG,Débito
+87,2025-02-25,Ana Silva,Notebook i5,Computadores,5,3849.0,19245.0,GO,Crédito
+88,2025-01-01,Carlos Lima,Mouse Pad Grande,Acessórios,2,39.9,79.8,PR,Boleto
+89,2025-02-07,Fernanda Dias,Roteador AC1200,Redes,3,159.9,479.7,RS,Boleto
+90,2025-01-21,Paulo Henrique,SSD 480GB,Armazenamento,5,259.99,1299.95,RJ,Boleto
+91,2025-03-06,Ana Silva,Mouse Pad Grande,Acessórios,1,39.9,39.9,BA,Boleto
+92,2025-03-09,Carla Mendes,Teclado Mecânico,Periférico,3,349.0,1047.0,RJ,Crédito
+93,2025-01-18,Fernanda Dias,Teclado Mecânico,Periférico,3,349.0,1047.0,GO,Crédito
+94,2025-02-07,Rafael Souza,Headset RGB,Periférico,1,199.5,199.5,RS,Pix
+95,2025-03-13,Rafael Souza,SSD 480GB,Armazenamento,5,259.99,1299.95,RJ,Crédito
+96,2025-03-09,Paulo Henrique,SSD 480GB,Armazenamento,3,259.99,779.97,SC,Crédito
+97,2025-02-13,Carla Mendes,Mouse Pad Grande,Acessórios,1,39.9,39.9,SC,Crédito
+98,2025-03-18,Lucas Rocha,Monitor 27,Monitores,5,1299.0,6495.0,GO,Débito
+99,2025-02-18,Lucas Rocha,Mouse Gamer,Periférico,3,120.9,362.7,GO,Débito
+100,2025-01-13,Fernanda Dias,Cadeira Gamer,Móveis,2,889.9,1779.8,GO,Crédito
+101,2025-01-27,Ana Silva,Webcam Full HD,Acessórios,2,299.0,598.0,RS,Pix
+102,2025-03-08,Patrícia Gomes,Monitor 27,Monitores,4,1299.0,5196.0,PR,Crédito
+103,2025-01-23,Lucas Rocha,Cadeira Gamer,Móveis,2,889.9,1779.8,RJ,Débito
+104,2025-01-01,Carla Mendes,Roteador AC1200,Redes,5,159.9,799.5,RJ,Boleto
+105,2025-02-22,Marcos Paulo,Mouse Pad Grande,Acessórios,2,39.9,79.8,SP,Débito
+106,2025-01-27,Bruno Martins,Mouse Gamer,Periférico,3,120.9,362.7,SC,Boleto
+107,2025-01-25,Fernanda Dias,Headset RGB,Periférico,4,199.5,798.0,MG,Pix
+108,2025-01-27,Juliana Costa,Monitor 27,Monitores,4,1299.0,5196.0,SP,Pix
+109,2025-02-06,Patrícia Gomes,Teclado Mecânico,Periférico,4,349.0,1396.0,SC,Pix
+110,2025-01-13,Juliana Costa,Webcam Full HD,Acessórios,1,299.0,299.0,RS,Crédito
+111,2025-03-09,Carlos Lima,Headset RGB,Periférico,3,199.5,598.5,RS,Débito
+112,2025-03-03,Lucas Rocha,Monitor 27,Monitores,1,1299.0,1299.0,SP,Boleto
+113,2025-02-04,Bruno Martins,Mouse Gamer,Periférico,3,120.9,362.7,SC,Pix
+114,2025-02-06,Carla Mendes,Mouse Gamer,Periférico,4,120.9,483.6,GO,Pix
+115,2025-01-25,Carlos Lima,SSD 480GB,Armazenamento,3,259.99,779.97,PR,Pix
+116,2025-01-05,Ana Silva,Mouse Pad Grande,Acessórios,4,39.9,159.6,PR,Crédito
+117,2025-01-13,Patrícia Gomes,Webcam Full HD,Acessórios,4,299.0,1196.0,SP,Crédito
+118,2025-01-20,Carla Mendes,Roteador AC1200,Redes,3,159.9,479.7,RJ,Pix
+119,2025-03-09,Carlos Lima,Mouse Pad Grande,Acessórios,4,39.9,159.6,GO,Boleto
+120,2025-02-18,Paulo Henrique,Mouse Pad Grande,Acessórios,5,39.9,199.5,MG,Débito
+121,2025-02-19,Lucas Rocha,Mouse Gamer,Periférico,1,120.9,120.9,BA,Débito
+122,2025-01-13,Carla Mendes,Headset RGB,Periférico,5,199.5,997.5,RS,Boleto
+123,2025-02-08,Carla Mendes,Webcam Full HD,Acessórios,5,299.0,1495.0,RJ,Pix
+124,2025-02-07,Carla Mendes,Cadeira Gamer,Móveis,2,889.9,1779.8,MG,Débito
+125,2025-01-20,Rafael Souza,Webcam Full HD,Acessórios,3,299.0,897.0,SC,Boleto
+126,2025-03-05,Juliana Costa,Mouse Gamer,Periférico,4,120.9,483.6,BA,Boleto
+127,2025-02-06,Lucas Rocha,Monitor 27,Monitores,4,1299.0,5196.0,MG,Boleto
+128,2025-03-10,Marcos Paulo,Teclado Mecânico,Periférico,3,349.0,1047.0,RJ,Crédito
+129,2025-01-02,Rafael Souza,Mouse Gamer,Periférico,5,120.9,604.5,MG,Crédito
+130,2025-03-14,Lucas Rocha,Roteador AC1200,Redes,4,159.9,639.6,SC,Pix
+131,2025-01-29,Juliana Costa,Notebook i5,Computadores,3,3849.0,11547.0,PR,Pix
+132,2025-03-05,Rafael Souza,Headset RGB,Periférico,5,199.5,997.5,SC,Débito
+133,2025-03-15,Juliana Costa,SSD 480GB,Armazenamento,1,259.99,259.99,SP,Crédito
+134,2025-01-10,Rafael Souza,Mouse Gamer,Periférico,1,120.9,120.9,GO,Crédito
+135,2025-01-15,Juliana Costa,Notebook i5,Computadores,2,3849.0,7698.0,PR,Pix
+136,2025-03-07,Fernanda Dias,Mouse Gamer,Periférico,3,120.9,362.7,SC,Crédito
+137,2025-02-27,Carlos Lima,Headset RGB,Periférico,4,199.5,798.0,SP,Boleto
+138,2025-03-09,Paulo Henrique,Mouse Pad Grande,Acessórios,5,39.9,199.5,BA,Boleto
+139,2025-01-21,Lucas Rocha,Notebook i5,Computadores,5,3849.0,19245.0,MG,Crédito
+140,2025-01-02,Marcos Paulo,Teclado Mecânico,Periférico,3,349.0,1047.0,SP,Pix
+141,2025-01-16,Carla Mendes,Webcam Full HD,Acessórios,1,299.0,299.0,RS,Crédito
+142,2025-01-06,Patrícia Gomes,Cadeira Gamer,Móveis,5,889.9,4449.5,RJ,Crédito
+143,2025-02-28,Marcos Paulo,Cadeira Gamer,Móveis,5,889.9,4449.5,GO,Débito
+144,2025-02-07,Paulo Henrique,Notebook i5,Computadores,4,3849.0,15396.0,GO,Crédito
+145,2025-03-01,Paulo Henrique,SSD 480GB,Armazenamento,2,259.99,519.98,RJ,Débito
+146,2025-03-12,Carla Mendes,Cadeira Gamer,Móveis,1,889.9,889.9,BA,Débito
+147,2025-02-24,Carlos Lima,SSD 480GB,Armazenamento,2,259.99,519.98,RJ,Crédito
+148,2025-01-24,Lucas Rocha,Mouse Pad Grande,Acessórios,2,39.9,79.8,RJ,Crédito
+149,2025-01-26,Marcos Paulo,Headset RGB,Periférico,1,199.5,199.5,MG,Pix
+150,2025-01-04,Rafael Souza,Monitor 27,Monitores,1,1299.0,1299.0,PR,Boleto
+151,2025-01-05,Patrícia Gomes,Cadeira Gamer,Móveis,5,889.9,4449.5,MG,Débito
+152,2025-02-17,Rafael Souza,Roteador AC1200,Redes,3,159.9,479.7,MG,Boleto
+153,2025-03-12,Lucas Rocha,Teclado Mecânico,Periférico,3,349.0,1047.0,SC,Boleto
+154,2025-01-04,Patrícia Gomes,Headset RGB,Periférico,2,199.5,399.0,SC,Boleto
+155,2025-01-26,Fernanda Dias,Webcam Full HD,Acessórios,2,299.0,598.0,SC,Pix
+156,2025-03-17,Carla Mendes,Monitor 27,Monitores,3,1299.0,3897.0,BA,Débito
+157,2025-01-23,Rafael Souza,Mouse Pad Grande,Acessórios,3,39.9,119.7,SC,Débito
+158,2025-01-03,Paulo Henrique,Teclado Mecânico,Periférico,4,349.0,1396.0,RJ,Pix
+159,2025-02-10,Carlos Lima,Mouse Pad Grande,Acessórios,5,39.9,199.5,RJ,Boleto
+160,2025-02-02,Paulo Henrique,Mouse Pad Grande,Acessórios,4,39.9,159.6,PR,Pix
+161,2025-03-13,Ana Silva,Cadeira Gamer,Móveis,2,889.9,1779.8,PR,Débito
+162,2025-01-14,Ana Silva,Monitor 27,Monitores,2,1299.0,2598.0,PR,Débito
+163,2025-01-24,Carlos Lima,Mouse Pad Grande,Acessórios,3,39.9,119.7,BA,Débito
+164,2025-01-31,Paulo Henrique,Teclado Mecânico,Periférico,2,349.0,698.0,BA,Crédito
+165,2025-01-08,Fernanda Dias,Notebook i5,Computadores,3,3849.0,11547.0,PR,Boleto
+166,2025-03-01,Rafael Souza,Mouse Pad Grande,Acessórios,5,39.9,199.5,RS,Boleto
+167,2025-01-22,Patrícia Gomes,Webcam Full HD,Acessórios,4,299.0,1196.0,RS,Débito
+168,2025-03-18,Carlos Lima,Webcam Full HD,Acessórios,2,299.0,598.0,SP,Pix
+169,2025-02-18,Juliana Costa,Mouse Pad Grande,Acessórios,3,39.9,119.7,GO,Boleto
+170,2025-02-01,Marcos Paulo,Monitor 27,Monitores,4,1299.0,5196.0,RJ,Débito
+171,2025-02-14,Rafael Souza,Monitor 27,Monitores,5,1299.0,6495.0,BA,Boleto
+172,2025-02-15,Carlos Lima,Mouse Pad Grande,Acessórios,2,39.9,79.8,RJ,Débito
+173,2025-02-04,Rafael Souza,Teclado Mecânico,Periférico,2,349.0,698.0,GO,Débito
+174,2025-01-28,Bruno Martins,Cadeira Gamer,Móveis,4,889.9,3559.6,PR,Pix
+175,2025-01-15,Ana Silva,Webcam Full HD,Acessórios,1,299.0,299.0,BA,Crédito
+176,2025-02-10,Lucas Rocha,Teclado Mecânico,Periférico,1,349.0,349.0,RS,Pix
+177,2025-01-16,Carla Mendes,Cadeira Gamer,Móveis,5,889.9,4449.5,SC,Boleto
+178,2025-02-20,Bruno Martins,Roteador AC1200,Redes,4,159.9,639.6,SP,Crédito
+179,2025-01-24,Paulo Henrique,Teclado Mecânico,Periférico,3,349.0,1047.0,RS,Crédito
+180,2025-01-06,Carlos Lima,Teclado Mecânico,Periférico,5,349.0,1745.0,SC,Crédito
+181,2025-02-14,Carlos Lima,Monitor 27,Monitores,5,1299.0,6495.0,GO,Boleto
+182,2025-02-09,Lucas Rocha,Mouse Gamer,Periférico,5,120.9,604.5,RJ,Boleto
+183,2025-01-14,Patrícia Gomes,Roteador AC1200,Redes,1,159.9,159.9,GO,Boleto
+184,2025-02-15,Marcos Paulo,Monitor 27,Monitores,1,1299.0,1299.0,RJ,Boleto
+185,2025-02-19,Carlos Lima,Mouse Pad Grande,Acessórios,4,39.9,159.6,MG,Pix
+186,2025-01-06,Carlos Lima,Mouse Pad Grande,Acessórios,2,39.9,79.8,SC,Crédito
+187,2025-01-08,Patrícia Gomes,Mouse Gamer,Periférico,2,120.9,241.8,SC,Crédito
+188,2025-03-01,Ana Silva,Webcam Full HD,Acessórios,3,299.0,897.0,RS,Boleto
+189,2025-02-24,Ana Silva,Webcam Full HD,Acessórios,5,299.0,1495.0,SP,Boleto
+190,2025-02-11,Marcos Paulo,Roteador AC1200,Redes,5,159.9,799.5,GO,Boleto
+191,2025-03-21,Lucas Rocha,Webcam Full HD,Acessórios,4,299.0,1196.0,MG,Débito
+192,2025-02-10,Lucas Rocha,Notebook i5,Computadores,3,3849.0,11547.0,BA,Débito
+193,2025-02-20,Ana Silva,Mouse Gamer,Periférico,4,120.9,483.6,SP,Crédito
+194,2025-01-09,Patrícia Gomes,Headset RGB,Periférico,4,199.5,798.0,PR,Crédito
+195,2025-02-02,Lucas Rocha,Notebook i5,Computadores,3,3849.0,11547.0,SC,Pix
+196,2025-01-05,Fernanda Dias,Webcam Full HD,Acessórios,3,299.0,897.0,RJ,Crédito
+197,2025-01-04,Juliana Costa,Mouse Gamer,Periférico,2,120.9,241.8,SP,Boleto
+198,2025-01-23,Patrícia Gomes,Mouse Pad Grande,Acessórios,4,39.9,159.6,PR,Boleto
+199,2025-01-30,Carla Mendes,Teclado Mecânico,Periférico,1,349.0,349.0,SP,Crédito
+200,2025-03-10,Lucas Rocha,Mouse Pad Grande,Acessórios,1,39.9,39.9,SC,Boleto
+201,2025-03-20,Bruno Martins,Headset RGB,Periférico,3,199.5,598.5,SP,Crédito
+202,2025-01-15,Carla Mendes,Notebook i5,Computadores,1,3849.0,3849.0,SP,Crédito
+203,2025-03-14,Ana Silva,Headset RGB,Periférico,1,199.5,199.5,RS,Pix
+204,2025-03-05,Carla Mendes,Mouse Gamer,Periférico,3,120.9,362.7,RJ,Crédito
+205,2025-01-31,Ana Silva,Teclado Mecânico,Periférico,4,349.0,1396.0,RS,Boleto
+206,2025-01-10,Rafael Souza,Mouse Gamer,Periférico,3,120.9,362.7,SP,Pix
+207,2025-02-08,Carlos Lima,Monitor 27,Monitores,5,1299.0,6495.0,RS,Pix
+208,2025-01-30,Carlos Lima,Webcam Full HD,Acessórios,1,299.0,299.0,GO,Pix
+209,2025-01-26,Juliana Costa,Mouse Gamer,Periférico,5,120.9,604.5,PR,Crédito
+210,2025-01-06,Ana Silva,Headset RGB,Periférico,4,199.5,798.0,SC,Pix
+211,2025-01-11,Marcos Paulo,Mouse Pad Grande,Acessórios,3,39.9,119.7,RS,Boleto
+212,2025-03-16,Paulo Henrique,Mouse Gamer,Periférico,1,120.9,120.9,MG,Pix
+213,2025-02-23,Paulo Henrique,Webcam Full HD,Acessórios,4,299.0,1196.0,SC,Boleto
+214,2025-01-02,Ana Silva,SSD 480GB,Armazenamento,3,259.99,779.97,RJ,Débito
+215,2025-02-12,Bruno Martins,Headset RGB,Periférico,1,199.5,199.5,BA,Crédito
+216,2025-01-06,Ana Silva,Webcam Full HD,Acessórios,5,299.0,1495.0,SC,Débito
+217,2025-01-28,Carlos Lima,Mouse Gamer,Periférico,5,120.9,604.5,RJ,Boleto
+218,2025-02-12,Rafael Souza,Notebook i5,Computadores,3,3849.0,11547.0,MG,Débito
+219,2025-01-09,Ana Silva,Headset RGB,Periférico,3,199.5,598.5,RS,Pix
+220,2025-01-25,Rafael Souza,Monitor 27,Monitores,1,1299.0,1299.0,PR,Boleto
+221,2025-01-16,Paulo Henrique,Teclado Mecânico,Periférico,2,349.0,698.0,GO,Crédito
+222,2025-03-02,Marcos Paulo,Cadeira Gamer,Móveis,2,889.9,1779.8,GO,Pix
+223,2025-03-16,Marcos Paulo,Headset RGB,Periférico,4,199.5,798.0,BA,Boleto
+224,2025-02-23,Patrícia Gomes,Roteador AC1200,Redes,5,159.9,799.5,MG,Pix
+225,2025-01-17,Patrícia Gomes,Mouse Gamer,Periférico,4,120.9,483.6,SP,Boleto
+226,2025-01-01,Rafael Souza,Mouse Pad Grande,Acessórios,3,39.9,119.7,SC,Crédito
+227,2025-01-20,Marcos Paulo,Mouse Pad Grande,Acessórios,5,39.9,199.5,PR,Débito
+228,2025-02-04,Rafael Souza,Monitor 27,Monitores,3,1299.0,3897.0,RS,Pix
+229,2025-01-24,Paulo Henrique,Mouse Gamer,Periférico,4,120.9,483.6,SC,Débito
+230,2025-01-29,Rafael Souza,Notebook i5,Computadores,1,3849.0,3849.0,RS,Pix
+231,2025-01-27,Bruno Martins,Cadeira Gamer,Móveis,1,889.9,889.9,PR,Crédito
+232,2025-01-03,Fernanda Dias,SSD 480GB,Armazenamento,4,259.99,1039.96,RJ,Débito
+233,2025-03-19,Fernanda Dias,Mouse Pad Grande,Acessórios,1,39.9,39.9,PR,Débito
+234,2025-03-13,Fernanda Dias,SSD 480GB,Armazenamento,5,259.99,1299.95,PR,Boleto
+235,2025-03-04,Juliana Costa,Notebook i5,Computadores,1,3849.0,3849.0,GO,Boleto
+236,2025-03-11,Rafael Souza,Headset RGB,Periférico,2,199.5,399.0,RJ,Boleto
+237,2025-01-10,Patrícia Gomes,Roteador AC1200,Redes,4,159.9,639.6,BA,Boleto
+238,2025-02-27,Patrícia Gomes,Roteador AC1200,Redes,3,159.9,479.7,SC,Boleto
+239,2025-03-09,Carla Mendes,SSD 480GB,Armazenamento,2,259.99,519.98,RJ,Pix
+240,2025-01-01,Ana Silva,Mouse Gamer,Periférico,1,120.9,120.9,SP,Crédito
+241,2025-03-02,Carla Mendes,Teclado Mecânico,Periférico,2,349.0,698.0,RJ,Boleto
+242,2025-03-08,Lucas Rocha,Monitor 27,Monitores,1,1299.0,1299.0,SP,Boleto
+243,2025-02-28,Paulo Henrique,Mouse Gamer,Periférico,4,120.9,483.6,PR,Crédito
+244,2025-01-20,Fernanda Dias,Headset RGB,Periférico,2,199.5,399.0,BA,Pix
+245,2025-03-02,Paulo Henrique,Teclado Mecânico,Periférico,3,349.0,1047.0,MG,Pix
+246,2025-02-23,Lucas Rocha,Notebook i5,Computadores,2,3849.0,7698.0,RS,Débito
+247,2025-01-19,Fernanda Dias,Roteador AC1200,Redes,3,159.9,479.7,SC,Crédito
+248,2025-02-20,Fernanda Dias,Webcam Full HD,Acessórios,2,299.0,598.0,SC,Débito
+249,2025-01-28,Paulo Henrique,Roteador AC1200,Redes,4,159.9,639.6,PR,Pix
+250,2025-01-25,Paulo Henrique,Notebook i5,Computadores,3,3849.0,11547.0,RS,Crédito
+251,2025-02-28,Patrícia Gomes,Notebook i5,Computadores,5,3849.0,19245.0,BA,Débito
+252,2025-03-10,Carla Mendes,Teclado Mecânico,Periférico,2,349.0,698.0,RS,Débito
+253,2025-03-22,Carla Mendes,Mouse Gamer,Periférico,3,120.9,362.7,BA,Débito
+254,2025-03-07,Fernanda Dias,Webcam Full HD,Acessórios,2,299.0,598.0,RS,Boleto
+255,2025-02-22,Bruno Martins,Cadeira Gamer,Móveis,3,889.9,2669.7,GO,Boleto
+256,2025-02-08,Rafael Souza,Notebook i5,Computadores,4,3849.0,15396.0,SC,Crédito
+257,2025-02-16,Carlos Lima,Teclado Mecânico,Periférico,3,349.0,1047.0,GO,Crédito
+258,2025-03-15,Marcos Paulo,Mouse Gamer,Periférico,3,120.9,362.7,PR,Boleto
+259,2025-01-23,Ana Silva,Mouse Pad Grande,Acessórios,2,39.9,79.8,SP,Boleto
+260,2025-01-06,Carlos Lima,Teclado Mecânico,Periférico,2,349.0,698.0,GO,Boleto
+261,2025-01-31,Paulo Henrique,Mouse Pad Grande,Acessórios,5,39.9,199.5,MG,Boleto
+262,2025-01-16,Juliana Costa,Notebook i5,Computadores,3,3849.0,11547.0,RS,Pix
+263,2025-03-07,Lucas Rocha,Mouse Gamer,Periférico,2,120.9,241.8,PR,Débito
+264,2025-02-09,Patrícia Gomes,Cadeira Gamer,Móveis,3,889.9,2669.7,SP,Débito
+265,2025-02-25,Juliana Costa,Webcam Full HD,Acessórios,1,299.0,299.0,SP,Débito
+266,2025-01-27,Carlos Lima,Monitor 27,Monitores,1,1299.0,1299.0,RJ,Crédito
+267,2025-03-22,Bruno Martins,Webcam Full HD,Acessórios,5,299.0,1495.0,SC,Crédito
+268,2025-01-23,Ana Silva,Headset RGB,Periférico,4,199.5,798.0,RJ,Boleto
+269,2025-02-23,Patrícia Gomes,Headset RGB,Periférico,4,199.5,798.0,RJ,Débito
+270,2025-02-07,Ana Silva,Teclado Mecânico,Periférico,1,349.0,349.0,GO,Pix
+271,2025-02-08,Fernanda Dias,Monitor 27,Monitores,2,1299.0,2598.0,PR,Débito
+272,2025-03-05,Patrícia Gomes,Cadeira Gamer,Móveis,5,889.9,4449.5,SC,Boleto
+273,2025-02-17,Lucas Rocha,Roteador AC1200,Redes,5,159.9,799.5,SC,Boleto
+274,2025-02-03,Lucas Rocha,Teclado Mecânico,Periférico,3,349.0,1047.0,BA,Boleto
+275,2025-01-31,Lucas Rocha,Monitor 27,Monitores,4,1299.0,5196.0,BA,Débito
+276,2025-02-01,Ana Silva,Roteador AC1200,Redes,3,159.9,479.7,SC,Pix
+277,2025-02-26,Carla Mendes,Monitor 27,Monitores,1,1299.0,1299.0,GO,Boleto
+278,2025-02-12,Ana Silva,Mouse Pad Grande,Acessórios,1,39.9,39.9,SP,Boleto
+279,2025-03-17,Juliana Costa,Roteador AC1200,Redes,1,159.9,159.9,RS,Pix
+280,2025-02-01,Carla Mendes,Webcam Full HD,Acessórios,1,299.0,299.0,MG,Pix
+281,2025-02-02,Bruno Martins,Notebook i5,Computadores,2,3849.0,7698.0,GO,Boleto
+282,2025-03-05,Carla Mendes,Mouse Gamer,Periférico,2,120.9,241.8,BA,Crédito
+283,2025-02-23,Ana Silva,Teclado Mecânico,Periférico,1,349.0,349.0,MG,Pix
+284,2025-02-18,Marcos Paulo,Notebook i5,Computadores,2,3849.0,7698.0,PR,Pix
+285,2025-03-15,Juliana Costa,Notebook i5,Computadores,4,3849.0,15396.0,RJ,Pix
+286,2025-02-07,Lucas Rocha,Mouse Gamer,Periférico,5,120.9,604.5,RS,Débito
+287,2025-03-09,Marcos Paulo,Teclado Mecânico,Periférico,5,349.0,1745.0,BA,Boleto
+288,2025-02-01,Ana Silva,SSD 480GB,Armazenamento,5,259.99,1299.95,SP,Débito
+289,2025-02-18,Carla Mendes,Cadeira Gamer,Móveis,5,889.9,4449.5,SP,Boleto
+290,2025-03-19,Patrícia Gomes,Mouse Pad Grande,Acessórios,5,39.9,199.5,SP,Boleto
+291,2025-03-07,Rafael Souza,Monitor 27,Monitores,4,1299.0,5196.0,SP,Boleto
+292,2025-03-15,Marcos Paulo,Headset RGB,Periférico,5,199.5,997.5,PR,Pix
+293,2025-02-03,Juliana Costa,Headset RGB,Periférico,5,199.5,997.5,BA,Débito
+294,2025-02-20,Juliana Costa,Webcam Full HD,Acessórios,5,299.0,1495.0,PR,Crédito
+295,2025-02-08,Fernanda Dias,Monitor 27,Monitores,3,1299.0,3897.0,GO,Boleto
+296,2025-01-14,Rafael Souza,Monitor 27,Monitores,5,1299.0,6495.0,GO,Crédito
+297,2025-02-06,Lucas Rocha,Headset RGB,Periférico,4,199.5,798.0,SC,Pix
+298,2025-02-19,Marcos Paulo,Roteador AC1200,Redes,4,159.9,639.6,MG,Crédito
+299,2025-01-22,Carlos Lima,Mouse Pad Grande,Acessórios,4,39.9,159.6,MG,Pix
+300,2025-03-05,Bruno Martins,Cadeira Gamer,Móveis,3,889.9,2669.7,RJ,Pix
+301,2025-03-18,Patrícia Gomes,Webcam Full HD,Acessórios,1,299.0,299.0,BA,Boleto
+302,2025-02-12,Carla Mendes,Roteador AC1200,Redes,3,159.9,479.7,PR,Crédito
+303,2025-02-23,Rafael Souza,Notebook i5,Computadores,1,3849.0,3849.0,RS,Boleto
+304,2025-01-17,Patrícia Gomes,Mouse Pad Grande,Acessórios,4,39.9,159.6,MG,Boleto
+305,2025-01-25,Ana Silva,Cadeira Gamer,Móveis,1,889.9,889.9,SC,Boleto
+306,2025-03-01,Paulo Henrique,Mouse Pad Grande,Acessórios,5,39.9,199.5,PR,Boleto
+307,2025-03-10,Bruno Martins,Mouse Pad Grande,Acessórios,3,39.9,119.7,GO,Crédito
+308,2025-01-06,Fernanda Dias,Notebook i5,Computadores,5,3849.0,19245.0,SP,Débito
+309,2025-01-17,Ana Silva,Teclado Mecânico,Periférico,1,349.0,349.0,PR,Pix
+310,2025-02-16,Ana Silva,Notebook i5,Computadores,1,3849.0,3849.0,SC,Boleto
+311,2025-02-05,Carlos Lima,Mouse Pad Grande,Acessórios,3,39.9,119.7,RS,Boleto
+312,2025-01-12,Carlos Lima,Roteador AC1200,Redes,1,159.9,159.9,PR,Boleto
+313,2025-03-05,Carlos Lima,Headset RGB,Periférico,1,199.5,199.5,RJ,Pix
+314,2025-01-26,Lucas Rocha,Roteador AC1200,Redes,1,159.9,159.9,MG,Pix
+315,2025-02-25,Juliana Costa,Webcam Full HD,Acessórios,5,299.0,1495.0,SC,Boleto
+316,2025-03-22,Ana Silva,Mouse Pad Grande,Acessórios,4,39.9,159.6,SP,Crédito
+317,2025-02-19,Marcos Paulo,Roteador AC1200,Redes,2,159.9,319.8,SP,Pix
+318,2025-01-08,Bruno Martins,Cadeira Gamer,Móveis,5,889.9,4449.5,GO,Boleto
+319,2025-03-14,Carlos Lima,Roteador AC1200,Redes,1,159.9,159.9,RS,Boleto
+320,2025-02-24,Juliana Costa,Monitor 27,Monitores,1,1299.0,1299.0,GO,Crédito
+321,2025-02-18,Carlos Lima,Monitor 27,Monitores,5,1299.0,6495.0,MG,Débito
+322,2025-01-05,Patrícia Gomes,Mouse Pad Grande,Acessórios,3,39.9,119.7,GO,Pix
+323,2025-02-23,Juliana Costa,SSD 480GB,Armazenamento,3,259.99,779.97,PR,Débito
+324,2025-01-14,Ana Silva,Cadeira Gamer,Móveis,5,889.9,4449.5,MG,Débito
+325,2025-02-16,Bruno Martins,Monitor 27,Monitores,3,1299.0,3897.0,BA,Pix
+326,2025-01-08,Carlos Lima,Roteador AC1200,Redes,1,159.9,159.9,PR,Boleto
+327,2025-01-17,Carlos Lima,Roteador AC1200,Redes,2,159.9,319.8,MG,Crédito
+328,2025-02-08,Marcos Paulo,Teclado Mecânico,Periférico,2,349.0,698.0,SC,Crédito
+329,2025-01-18,Fernanda Dias,Mouse Pad Grande,Acessórios,4,39.9,159.6,RS,Débito
+330,2025-03-12,Patrícia Gomes,Headset RGB,Periférico,5,199.5,997.5,RJ,Boleto
+331,2025-03-08,Juliana Costa,Cadeira Gamer,Móveis,5,889.9,4449.5,GO,Crédito
+332,2025-02-09,Bruno Martins,Teclado Mecânico,Periférico,1,349.0,349.0,BA,Crédito
+333,2025-03-19,Lucas Rocha,Mouse Gamer,Periférico,1,120.9,120.9,RS,Débito
+334,2025-02-25,Bruno Martins,Mouse Pad Grande,Acessórios,3,39.9,119.7,RS,Boleto
+335,2025-03-06,Carlos Lima,Mouse Pad Grande,Acessórios,3,39.9,119.7,GO,Pix
+336,2025-01-08,Marcos Paulo,Roteador AC1200,Redes,2,159.9,319.8,SP,Crédito
+337,2025-01-01,Fernanda Dias,Mouse Gamer,Periférico,2,120.9,241.8,RS,Pix
+338,2025-01-10,Carla Mendes,SSD 480GB,Armazenamento,2,259.99,519.98,RS,Crédito
+339,2025-02-21,Bruno Martins,Mouse Gamer,Periférico,3,120.9,362.7,GO,Pix
+340,2025-03-10,Fernanda Dias,Mouse Pad Grande,Acessórios,5,39.9,199.5,BA,Débito
+341,2025-02-22,Patrícia Gomes,Cadeira Gamer,Móveis,2,889.9,1779.8,SC,Débito
+342,2025-01-02,Fernanda Dias,Monitor 27,Monitores,4,1299.0,5196.0,SC,Boleto
+343,2025-03-10,Rafael Souza,Teclado Mecânico,Periférico,1,349.0,349.0,RS,Boleto
+344,2025-01-24,Juliana Costa,Roteador AC1200,Redes,5,159.9,799.5,PR,Boleto
+345,2025-03-20,Rafael Souza,SSD 480GB,Armazenamento,4,259.99,1039.96,RJ,Pix
+346,2025-01-08,Lucas Rocha,Mouse Gamer,Periférico,5,120.9,604.5,BA,Débito
+347,2025-02-10,Patrícia Gomes,Cadeira Gamer,Móveis,3,889.9,2669.7,SC,Boleto
+348,2025-03-07,Lucas Rocha,SSD 480GB,Armazenamento,5,259.99,1299.95,GO,Débito
+349,2025-03-12,Fernanda Dias,Headset RGB,Periférico,5,199.5,997.5,RS,Pix
+350,2025-01-10,Ana Silva,Teclado Mecânico,Periférico,5,349.0,1745.0,PR,Pix
+351,2025-03-12,Paulo Henrique,Notebook i5,Computadores,1,3849.0,3849.0,MG,Crédito
+352,2025-02-21,Lucas Rocha,Notebook i5,Computadores,4,3849.0,15396.0,PR,Crédito
+353,2025-02-03,Fernanda Dias,Roteador AC1200,Redes,3,159.9,479.7,GO,Boleto
+354,2025-01-07,Marcos Paulo,SSD 480GB,Armazenamento,2,259.99,519.98,RJ,Boleto
+355,2025-01-11,Lucas Rocha,Notebook i5,Computadores,5,3849.0,19245.0,PR,Crédito
+356,2025-01-03,Lucas Rocha,Headset RGB,Periférico,2,199.5,399.0,MG,Boleto
+357,2025-01-04,Rafael Souza,SSD 480GB,Armazenamento,1,259.99,259.99,GO,Pix
+358,2025-03-20,Patrícia Gomes,Webcam Full HD,Acessórios,3,299.0,897.0,SP,Boleto
+359,2025-02-07,Carlos Lima,Teclado Mecânico,Periférico,1,349.0,349.0,BA,Débito
+360,2025-02-28,Marcos Paulo,SSD 480GB,Armazenamento,4,259.99,1039.96,SC,Pix
+361,2025-02-03,Juliana Costa,Mouse Pad Grande,Acessórios,2,39.9,79.8,SC,Pix
+362,2025-03-20,Patrícia Gomes,Notebook i5,Computadores,3,3849.0,11547.0,SC,Crédito
+363,2025-01-23,Paulo Henrique,Roteador AC1200,Redes,1,159.9,159.9,PR,Boleto
+364,2025-03-07,Bruno Martins,Webcam Full HD,Acessórios,5,299.0,1495.0,GO,Boleto
+365,2025-01-27,Rafael Souza,SSD 480GB,Armazenamento,4,259.99,1039.96,RS,Crédito
+366,2025-03-19,Rafael Souza,Mouse Pad Grande,Acessórios,1,39.9,39.9,MG,Pix
+367,2025-02-16,Patrícia Gomes,Cadeira Gamer,Móveis,4,889.9,3559.6,SP,Pix
+368,2025-02-11,Paulo Henrique,Monitor 27,Monitores,4,1299.0,5196.0,MG,Crédito
+369,2025-02-24,Marcos Paulo,Notebook i5,Computadores,1,3849.0,3849.0,PR,Boleto
+370,2025-01-28,Ana Silva,SSD 480GB,Armazenamento,1,259.99,259.99,RJ,Boleto
+371,2025-02-24,Lucas Rocha,Monitor 27,Monitores,3,1299.0,3897.0,BA,Débito
+372,2025-02-25,Bruno Martins,Roteador AC1200,Redes,1,159.9,159.9,RS,Pix
+373,2025-01-01,Rafael Souza,SSD 480GB,Armazenamento,4,259.99,1039.96,PR,Crédito
+374,2025-03-08,Ana Silva,Teclado Mecânico,Periférico,1,349.0,349.0,RJ,Boleto
+375,2025-01-15,Juliana Costa,Headset RGB,Periférico,5,199.5,997.5,PR,Débito
+376,2025-01-26,Ana Silva,Roteador AC1200,Redes,3,159.9,479.7,GO,Crédito
+377,2025-03-15,Lucas Rocha,Notebook i5,Computadores,3,3849.0,11547.0,GO,Pix
+378,2025-03-11,Paulo Henrique,Notebook i5,Computadores,4,3849.0,15396.0,SP,Crédito
+379,2025-03-22,Patrícia Gomes,Monitor 27,Monitores,1,1299.0,1299.0,RS,Pix
+380,2025-02-18,Bruno Martins,Mouse Gamer,Periférico,4,120.9,483.6,SP,Débito
+381,2025-01-05,Juliana Costa,Roteador AC1200,Redes,5,159.9,799.5,GO,Débito
+382,2025-01-02,Lucas Rocha,Headset RGB,Periférico,1,199.5,199.5,RJ,Crédito
+383,2025-01-17,Fernanda Dias,Roteador AC1200,Redes,5,159.9,799.5,GO,Débito
+384,2025-01-30,Bruno Martins,Teclado Mecânico,Periférico,2,349.0,698.0,SP,Débito
+385,2025-02-27,Bruno Martins,Webcam Full HD,Acessórios,3,299.0,897.0,MG,Boleto
+386,2025-01-31,Ana Silva,Mouse Pad Grande,Acessórios,4,39.9,159.6,SC,Crédito
+387,2025-03-05,Marcos Paulo,Roteador AC1200,Redes,5,159.9,799.5,RS,Boleto
+388,2025-02-27,Paulo Henrique,Mouse Pad Grande,Acessórios,1,39.9,39.9,RJ,Boleto
+389,2025-01-10,Patrícia Gomes,Cadeira Gamer,Móveis,1,889.9,889.9,GO,Boleto
+390,2025-02-24,Ana Silva,Mouse Gamer,Periférico,2,120.9,241.8,BA,Boleto
+391,2025-01-29,Bruno Martins,Notebook i5,Computadores,4,3849.0,15396.0,SP,Crédito
+392,2025-01-11,Paulo Henrique,Headset RGB,Periférico,4,199.5,798.0,RS,Crédito
+393,2025-01-04,Carla Mendes,Webcam Full HD,Acessórios,5,299.0,1495.0,PR,Crédito
+394,2025-01-01,Carlos Lima,Monitor 27,Monitores,1,1299.0,1299.0,SC,Boleto
+395,2025-01-24,Carla Mendes,Mouse Gamer,Periférico,4,120.9,483.6,SP,Boleto
+396,2025-02-16,Rafael Souza,Cadeira Gamer,Móveis,5,889.9,4449.5,GO,Boleto
+397,2025-01-23,Ana Silva,Cadeira Gamer,Móveis,4,889.9,3559.6,BA,Débito
+398,2025-01-25,Carlos Lima,Webcam Full HD,Acessórios,1,299.0,299.0,GO,Pix
+399,2025-02-01,Bruno Martins,Headset RGB,Periférico,3,199.5,598.5,SC,Pix
+400,2025-02-22,Lucas Rocha,Monitor 27,Monitores,4,1299.0,5196.0,RJ,Boleto
+401,2025-01-17,Fernanda Dias,Mouse Pad Grande,Acessórios,5,39.9,199.5,MG,Boleto
+402,2025-03-02,Paulo Henrique,Webcam Full HD,Acessórios,1,299.0,299.0,SP,Boleto
+403,2025-01-04,Rafael Souza,SSD 480GB,Armazenamento,2,259.99,519.98,SP,Débito
+404,2025-03-10,Carla Mendes,Monitor 27,Monitores,1,1299.0,1299.0,SP,Débito
+405,2025-02-23,Patrícia Gomes,Mouse Gamer,Periférico,5,120.9,604.5,GO,Débito
+406,2025-03-13,Rafael Souza,Teclado Mecânico,Periférico,5,349.0,1745.0,BA,Débito
+407,2025-03-15,Lucas Rocha,Monitor 27,Monitores,5,1299.0,6495.0,RS,Pix
+408,2025-02-04,Bruno Martins,Roteador AC1200,Redes,1,159.9,159.9,BA,Débito
+409,2025-01-13,Lucas Rocha,Cadeira Gamer,Móveis,4,889.9,3559.6,MG,Débito
+410,2025-02-12,Lucas Rocha,Roteador AC1200,Redes,3,159.9,479.7,RS,Pix
+411,2025-03-07,Carlos Lima,Monitor 27,Monitores,2,1299.0,2598.0,SC,Boleto
+412,2025-02-10,Paulo Henrique,Mouse Gamer,Periférico,1,120.9,120.9,SC,Débito
+413,2025-02-07,Paulo Henrique,Webcam Full HD,Acessórios,2,299.0,598.0,BA,Boleto
+414,2025-02-24,Marcos Paulo,Teclado Mecânico,Periférico,1,349.0,349.0,RJ,Pix
+415,2025-01-14,Juliana Costa,Monitor 27,Monitores,4,1299.0,5196.0,PR,Pix
+416,2025-01-14,Carla Mendes,Mouse Pad Grande,Acessórios,2,39.9,79.8,MG,Pix
+417,2025-02-26,Juliana Costa,Webcam Full HD,Acessórios,3,299.0,897.0,SP,Boleto
+418,2025-02-27,Fernanda Dias,Mouse Gamer,Periférico,1,120.9,120.9,GO,Crédito
+419,2025-02-05,Carla Mendes,Mouse Pad Grande,Acessórios,2,39.9,79.8,RJ,Crédito
+420,2025-01-15,Fernanda Dias,Teclado Mecânico,Periférico,3,349.0,1047.0,RS,Boleto
+421,2025-01-03,Carlos Lima,Notebook i5,Computadores,5,3849.0,19245.0,PR,Débito
+422,2025-03-09,Ana Silva,Webcam Full HD,Acessórios,4,299.0,1196.0,SP,Débito
+423,2025-02-10,Lucas Rocha,Webcam Full HD,Acessórios,5,299.0,1495.0,SP,Boleto
+424,2025-02-03,Lucas Rocha,Mouse Pad Grande,Acessórios,2,39.9,79.8,RS,Pix
+425,2025-02-07,Patrícia Gomes,Mouse Gamer,Periférico,4,120.9,483.6,RS,Débito
+426,2025-03-10,Carla Mendes,Roteador AC1200,Redes,2,159.9,319.8,RJ,Crédito
+427,2025-03-08,Bruno Martins,Mouse Pad Grande,Acessórios,1,39.9,39.9,MG,Pix
+428,2025-02-01,Patrícia Gomes,Mouse Gamer,Periférico,3,120.9,362.7,MG,Débito
+429,2025-01-18,Patrícia Gomes,Teclado Mecânico,Periférico,1,349.0,349.0,PR,Débito
+430,2025-01-30,Ana Silva,Headset RGB,Periférico,3,199.5,598.5,GO,Crédito
+431,2025-03-10,Patrícia Gomes,SSD 480GB,Armazenamento,3,259.99,779.97,SC,Crédito
+432,2025-02-28,Marcos Paulo,Notebook i5,Computadores,4,3849.0,15396.0,RS,Boleto
+433,2025-03-06,Rafael Souza,Mouse Pad Grande,Acessórios,3,39.9,119.7,SC,Pix
+434,2025-03-02,Carla Mendes,SSD 480GB,Armazenamento,2,259.99,519.98,SC,Pix
+435,2025-01-16,Patrícia Gomes,Webcam Full HD,Acessórios,1,299.0,299.0,SP,Pix
+436,2025-03-19,Ana Silva,Webcam Full HD,Acessórios,1,299.0,299.0,PR,Pix
+437,2025-03-22,Lucas Rocha,Cadeira Gamer,Móveis,4,889.9,3559.6,RJ,Pix
+438,2025-01-09,Marcos Paulo,Mouse Gamer,Periférico,3,120.9,362.7,GO,Pix
+439,2025-01-28,Bruno Martins,Teclado Mecânico,Periférico,1,349.0,349.0,BA,Pix
+440,2025-03-18,Bruno Martins,Cadeira Gamer,Móveis,4,889.9,3559.6,RJ,Crédito
+441,2025-01-20,Rafael Souza,Mouse Gamer,Periférico,4,120.9,483.6,SC,Boleto
+442,2025-01-24,Paulo Henrique,Notebook i5,Computadores,4,3849.0,15396.0,MG,Débito
+443,2025-03-09,Marcos Paulo,Notebook i5,Computadores,5,3849.0,19245.0,RS,Boleto
+444,2025-01-27,Paulo Henrique,SSD 480GB,Armazenamento,3,259.99,779.97,GO,Crédito
+445,2025-02-03,Rafael Souza,Mouse Pad Grande,Acessórios,4,39.9,159.6,MG,Crédito
+446,2025-01-18,Ana Silva,SSD 480GB,Armazenamento,4,259.99,1039.96,PR,Pix
+447,2025-02-05,Rafael Souza,Headset RGB,Periférico,4,199.5,798.0,SP,Boleto
+448,2025-01-31,Bruno Martins,Mouse Gamer,Periférico,3,120.9,362.7,RJ,Débito
+449,2025-01-03,Fernanda Dias,Webcam Full HD,Acessórios,2,299.0,598.0,RJ,Boleto
+450,2025-01-31,Ana Silva,Headset RGB,Periférico,4,199.5,798.0,BA,Débito
+451,2025-02-08,Patrícia Gomes,Teclado Mecânico,Periférico,3,349.0,1047.0,RJ,Débito
+452,2025-02-25,Fernanda Dias,Mouse Gamer,Periférico,5,120.9,604.5,PR,Crédito
+453,2025-03-01,Patrícia Gomes,Notebook i5,Computadores,4,3849.0,15396.0,PR,Pix
+454,2025-01-27,Carlos Lima,Mouse Gamer,Periférico,2,120.9,241.8,RS,Crédito
+455,2025-02-28,Lucas Rocha,Teclado Mecânico,Periférico,1,349.0,349.0,MG,Boleto
+456,2025-03-12,Bruno Martins,Mouse Pad Grande,Acessórios,1,39.9,39.9,RS,Pix
+457,2025-01-26,Paulo Henrique,Mouse Gamer,Periférico,1,120.9,120.9,SC,Crédito
+458,2025-01-21,Lucas Rocha,Mouse Pad Grande,Acessórios,2,39.9,79.8,RJ,Crédito
+459,2025-01-25,Carla Mendes,Mouse Gamer,Periférico,4,120.9,483.6,SC,Débito
+460,2025-02-06,Carlos Lima,Roteador AC1200,Redes,4,159.9,639.6,GO,Crédito
+461,2025-03-08,Ana Silva,Mouse Gamer,Periférico,1,120.9,120.9,PR,Débito
+462,2025-01-22,Patrícia Gomes,Monitor 27,Monitores,4,1299.0,5196.0,BA,Pix
+463,2025-01-14,Carlos Lima,Mouse Gamer,Periférico,1,120.9,120.9,SC,Pix
+464,2025-02-11,Carla Mendes,Headset RGB,Periférico,5,199.5,997.5,GO,Boleto
+465,2025-02-20,Marcos Paulo,Cadeira Gamer,Móveis,2,889.9,1779.8,MG,Débito
+466,2025-01-28,Lucas Rocha,Monitor 27,Monitores,5,1299.0,6495.0,PR,Pix
+467,2025-03-19,Marcos Paulo,Monitor 27,Monitores,1,1299.0,1299.0,SC,Débito
+468,2025-03-15,Ana Silva,Teclado Mecânico,Periférico,2,349.0,698.0,GO,Crédito
+469,2025-01-23,Paulo Henrique,Monitor 27,Monitores,1,1299.0,1299.0,RS,Crédito
+470,2025-03-04,Fernanda Dias,Teclado Mecânico,Periférico,5,349.0,1745.0,RS,Pix
+471,2025-02-28,Paulo Henrique,Roteador AC1200,Redes,5,159.9,799.5,MG,Crédito
+472,2025-01-13,Paulo Henrique,Roteador AC1200,Redes,4,159.9,639.6,BA,Boleto
+473,2025-01-14,Marcos Paulo,Monitor 27,Monitores,1,1299.0,1299.0,GO,Crédito
+474,2025-01-11,Juliana Costa,Cadeira Gamer,Móveis,1,889.9,889.9,SC,Pix
+475,2025-01-24,Rafael Souza,Notebook i5,Computadores,5,3849.0,19245.0,RJ,Pix
+476,2025-01-10,Ana Silva,Roteador AC1200,Redes,5,159.9,799.5,GO,Crédito
+477,2025-01-27,Patrícia Gomes,Headset RGB,Periférico,3,199.5,598.5,SC,Crédito
+478,2025-02-09,Carla Mendes,Roteador AC1200,Redes,2,159.9,319.8,SP,Boleto
+479,2025-02-23,Lucas Rocha,Roteador AC1200,Redes,4,159.9,639.6,GO,Crédito
+480,2025-02-21,Bruno Martins,Mouse Gamer,Periférico,2,120.9,241.8,SP,Boleto
+481,2025-02-23,Patrícia Gomes,Headset RGB,Periférico,1,199.5,199.5,SC,Pix
+482,2025-01-21,Juliana Costa,Mouse Pad Grande,Acessórios,5,39.9,199.5,SC,Pix
+483,2025-01-04,Paulo Henrique,Cadeira Gamer,Móveis,5,889.9,4449.5,GO,Crédito
+484,2025-03-18,Paulo Henrique,Cadeira Gamer,Móveis,4,889.9,3559.6,SC,Débito
+485,2025-03-05,Marcos Paulo,Teclado Mecânico,Periférico,1,349.0,349.0,SC,Boleto
+486,2025-03-19,Lucas Rocha,Roteador AC1200,Redes,3,159.9,479.7,PR,Boleto
+487,2025-01-26,Fernanda Dias,Teclado Mecânico,Periférico,3,349.0,1047.0,PR,Crédito
+488,2025-01-03,Lucas Rocha,Notebook i5,Computadores,1,3849.0,3849.0,RS,Boleto
+489,2025-03-08,Carla Mendes,Teclado Mecânico,Periférico,1,349.0,349.0,GO,Boleto
+490,2025-01-30,Paulo Henrique,Cadeira Gamer,Móveis,3,889.9,2669.7,MG,Débito
+491,2025-02-21,Marcos Paulo,Headset RGB,Periférico,4,199.5,798.0,GO,Débito
+492,2025-03-18,Paulo Henrique,Webcam Full HD,Acessórios,3,299.0,897.0,BA,Débito
+493,2025-01-19,Rafael Souza,Teclado Mecânico,Periférico,2,349.0,698.0,BA,Crédito
+494,2025-01-05,Lucas Rocha,Headset RGB,Periférico,5,199.5,997.5,BA,Débito
+495,2025-02-25,Carla Mendes,Cadeira Gamer,Móveis,5,889.9,4449.5,GO,Débito
+496,2025-02-18,Patrícia Gomes,Monitor 27,Monitores,5,1299.0,6495.0,MG,Débito
+497,2025-01-26,Lucas Rocha,Notebook i5,Computadores,1,3849.0,3849.0,RS,Pix
+498,2025-01-01,Bruno Martins,Mouse Gamer,Periférico,1,120.9,120.9,BA,Pix
+499,2025-01-24,Carlos Lima,SSD 480GB,Armazenamento,4,259.99,1039.96,MG,Boleto
+500,2025-02-03,Lucas Rocha,SSD 480GB,Armazenamento,4,259.99,1039.96,PR,Pix
